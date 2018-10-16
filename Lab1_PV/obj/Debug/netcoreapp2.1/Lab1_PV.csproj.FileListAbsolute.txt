@@ -1,0 +1,11 @@
+/home/kiko/Desktop/Lab1_PV/bin/Debug/netcoreapp2.1/Lab1_PV.deps.json
+/home/kiko/Desktop/Lab1_PV/bin/Debug/netcoreapp2.1/Lab1_PV.runtimeconfig.json
+/home/kiko/Desktop/Lab1_PV/bin/Debug/netcoreapp2.1/Lab1_PV.runtimeconfig.dev.json
+/home/kiko/Desktop/Lab1_PV/bin/Debug/netcoreapp2.1/Lab1_PV.dll
+/home/kiko/Desktop/Lab1_PV/bin/Debug/netcoreapp2.1/Lab1_PV.pdb
+/home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.csprojAssemblyReference.cache
+/home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.csproj.CoreCompileInputs.cache
+/home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.AssemblyInfoInputs.cache
+/home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.AssemblyInfo.cs
+/home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.dll
+/home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.pdb
