@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "/home/kiko/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Francisco\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kiko/Desktop/Lab1_PV/Lab1_PV.csproj",
+      "projectUniqueName": "G:\\FACULDADE\\PV\\Lab1_PV\\Lab1_PV.csproj",
       "projectName": "Lab1_PV",
-      "projectPath": "/home/kiko/Desktop/Lab1_PV/Lab1_PV.csproj",
-      "packagesPath": "/home/kiko/.nuget/packages/",
-      "outputPath": "/home/kiko/Desktop/Lab1_PV/obj/",
+      "projectPath": "G:\\FACULDADE\\PV\\Lab1_PV\\Lab1_PV.csproj",
+      "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
+      "outputPath": "G:\\FACULDADE\\PV\\Lab1_PV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/kiko/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

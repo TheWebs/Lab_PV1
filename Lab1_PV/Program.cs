@@ -107,6 +107,30 @@ namespace Lab1_PV
             Console.WriteLine(nome.AppendColor(pica));
 
             Console.ReadKey();
+            Console.Clear();
+
+            for (char i = 'a'; i < 'h'; i++)
+                Console.Write(tabuleiro[i, 0].nome + " ");
+
+            Console.ReadKey();
+            Console.Clear();
+
+            Peca.Moved m = p1.Move;
+            m(p1);
+            m(t1);
+
+            Console.ReadKey();
+            Console.Clear();
+
+            m += tabuleiro.PecaMovimentada;
+            m(p1);
+            tabuleiro['e', 1].Deslocar(0, 2);
+            Console.ReadKey();
+            m(t1);
+
+
+            Console.ReadKey();
+            Console.Clear();
         }
     }
 }

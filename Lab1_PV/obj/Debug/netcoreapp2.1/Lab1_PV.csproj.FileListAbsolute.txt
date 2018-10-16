@@ -9,3 +9,14 @@
 /home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.AssemblyInfo.cs
 /home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.dll
 /home/kiko/Desktop/Lab1_PV/obj/Debug/netcoreapp2.1/Lab1_PV.pdb
+G:\FACULDADE\PV\Lab1_PV\bin\Debug\netcoreapp2.1\Lab1_PV.deps.json
+G:\FACULDADE\PV\Lab1_PV\bin\Debug\netcoreapp2.1\Lab1_PV.runtimeconfig.json
+G:\FACULDADE\PV\Lab1_PV\bin\Debug\netcoreapp2.1\Lab1_PV.runtimeconfig.dev.json
+G:\FACULDADE\PV\Lab1_PV\bin\Debug\netcoreapp2.1\Lab1_PV.dll
+G:\FACULDADE\PV\Lab1_PV\bin\Debug\netcoreapp2.1\Lab1_PV.pdb
+G:\FACULDADE\PV\Lab1_PV\obj\Debug\netcoreapp2.1\Lab1_PV.csprojAssemblyReference.cache
+G:\FACULDADE\PV\Lab1_PV\obj\Debug\netcoreapp2.1\Lab1_PV.csproj.CoreCompileInputs.cache
+G:\FACULDADE\PV\Lab1_PV\obj\Debug\netcoreapp2.1\Lab1_PV.AssemblyInfoInputs.cache
+G:\FACULDADE\PV\Lab1_PV\obj\Debug\netcoreapp2.1\Lab1_PV.AssemblyInfo.cs
+G:\FACULDADE\PV\Lab1_PV\obj\Debug\netcoreapp2.1\Lab1_PV.dll
+G:\FACULDADE\PV\Lab1_PV\obj\Debug\netcoreapp2.1\Lab1_PV.pdb

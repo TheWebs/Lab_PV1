@@ -42,7 +42,6 @@ namespace Lab1_PV
 
         public void Mostrar()
         {
-
             for (int y = 7; y >= 0; y--)
             {
                 Console.Write(y + 1 + "  ");
@@ -65,5 +64,40 @@ namespace Lab1_PV
             }
             Console.WriteLine("   a b c d e f g h");
         }
+
+        public void AtualizarTabuleiro()
+        {
+            for (int i = 0; i < 8; i++)
+            {
+                for (int j = 0; j < 8; j++)
+                {
+                    if (tabuleiro[i, j] != null)
+                    {
+                        int x = tabuleiro[i, j].posicao.x - 97;
+                        int y = tabuleiro[i, j].posicao.y - 1;
+                        if (x != i || y != j)
+                        {
+                            tabuleiro[x, y] = tabuleiro[i, j];
+                            tabuleiro[i, j] = null;
+                        }
+                    }
+                }
+            }
+        }
+
+        public void PecaMovimentada(Peca p)
+        {
+            Console.Clear();
+            AtualizarTabuleiro();
+            Mostrar();
+        }
+
+        public Peca this[char x, int y]
+        {
+            get { return tabuleiro[x-97, y]; }
+            set { tabuleiro[x, y] = value; }
+        }
     }
+
+
 }

@@ -7,6 +7,8 @@ namespace Lab1_PV
     public abstract class Peca : IMover
     {
 
+        public delegate void Moved(Peca p);
+
         public bool corBranca {get;set;}
         public readonly Posicao posicao;
 
@@ -28,6 +30,10 @@ namespace Lab1_PV
             }
         }
 
+        public void Move(Peca p)
+        {
+            Console.WriteLine(p.nome + " moveu-se!");
+        }
 
         public void SetPosicao(char x, int y)
         {
